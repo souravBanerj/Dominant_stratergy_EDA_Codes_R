@@ -1,0 +1,20 @@
+#For histogram in r program
+par(mfrow=c(3,4))
+
+hist(d$Trunal,col="red")
+
+hist(d$Dn,,col="green")
+hist(d$roshan,col="blue")
+hist(d$allD,col="black")
+hist(d$random1,col="orange")
+hist(d$amsh,col="#4B0082")
+hist(d$ar,col="purple")
+hist(d$abhiI1,col="#00FF00")
+hist(d$Tft1,col="maroon")
+hist(d$Tft2,col="#808000")
+hist(d$pankaj,col="aquamarine")
+hist(d$allc,col="magenta")
+hist(d$ash,"brown")
+
+
+plot(d,col="blue")
